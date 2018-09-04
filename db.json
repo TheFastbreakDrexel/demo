@@ -1,17 +1,17 @@
 {
   "Assignments": [
-      { "course": "South America", "assignmentTitle": "Brazil" },
-      { "course": "South America", "assignmentTitle": "Peru" },
-      { "course": "North America", "assignmentTitle": "Canada" },
-      { "course": "Asia", "assignmentTitle": "South Korea" },
-      { "course": "Asia", "assignmentTitle": "Japan" },
-      { "course": "Asia", "assignmentTitle": "China" },
-      { "course": "Europe", "assignmentTitle": "Denmark" },
-      { "course": "Europe", "assignmentTitle": "England" },
-      { "course": "Europe", "assignmentTitle": "France" },
-      { "course": "Europe", "assignmentTitle": "Germany" },
-      { "course": "Africa", "assignmentTitle": "Ethiopia" },
-      { "course": "Africa", "assignmentTitle": "Nigeria" },
-      { "course": "Africa", "assignmentTitle": "Zimbabwe" }
+      { "category": "South America", "title": "Brazil" },
+      { "category": "South America", "title": "Peru" },
+      { "category": "North America", "title": "Canada" },
+      { "category": "Asia", "title": "South Korea" },
+      { "category": "Asia", "title": "Japan" },
+      { "category": "Asia", "title": "China" },
+      { "category": "Europe", "title": "Denmark" },
+      { "category": "Europe", "title": "England" },
+      { "category": "Europe", "title": "France" },
+      { "category": "Europe", "title": "Germany" },
+      { "category": "Africa", "title": "Ethiopia" },
+      { "category": "Africa", "title": "Nigeria" },
+      { "category": "Africa", "title": "Zimbabwe" }
     ]
 }
