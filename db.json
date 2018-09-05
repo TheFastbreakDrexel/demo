@@ -1,17 +1,16 @@
 {
   "Assignments": [
-      { "category": "South America", "title": "Brazil" },
-      { "category": "South America", "title": "Peru" },
-      { "category": "North America", "title": "Canada" },
-      { "category": "Asia", "title": "South Korea" },
-      { "category": "Asia", "title": "Japan" },
-      { "category": "Asia", "title": "China" },
-      { "category": "Europe", "title": "Denmark" },
-      { "category": "Europe", "title": "England" },
-      { "category": "Europe", "title": "France" },
-      { "category": "Europe", "title": "Germany" },
-      { "category": "Africa", "title": "Ethiopia" },
-      { "category": "Africa", "title": "Nigeria" },
-      { "category": "Africa", "title": "Zimbabwe" }
-    ]
+      { "category": "CS275", "title": "Client Side HW" },
+      { "category": "CS275", "title": "Open Weather Map HW" },
+      { "category": "CS260", "title": "Linear Search" },
+      { "category": "CS260", "title": "Node Class Implementation" },
+      { "category": "CS260", "title": "Minimum Spanning Trees" },
+      { "category": "INFO101", "title": "Term Paper Update" },
+      { "category": "INFO101", "title": "Term Paper" },
+      { "category": "INFO101", "title": "Final Paper" },
+      { "category": "MATH201", "title": "Week 1 HW" },
+      { "category": "MATH201", "title": "Week 2 HW" },
+      { "category": "MATH201", "title": "Week 3 HW" },
+      { "category": "COM230", "title": "Persuasive Speech" }
+      
 }
